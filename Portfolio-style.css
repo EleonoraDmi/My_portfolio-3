@@ -17,7 +17,7 @@ a {
  a:hover {
   color: #370050;
   transform: scale(1.5);
-   text-transform: uppercase;
+  text-transform: uppercase;
  }
 h2 {
   text-decoration: underline;
