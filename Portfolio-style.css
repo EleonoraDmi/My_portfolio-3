@@ -13,11 +13,11 @@ a {
   color: #17AB33;
   text-decoration: none;
   font-style: italic;
-  text-transform: uppercase;
  }
  a:hover {
   color: #370050;
   transform: scale(1.5);
+   text-transform: uppercase;
  }
 h2 {
   text-decoration: underline;
